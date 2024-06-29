@@ -294,7 +294,7 @@ gg.toast("[ ANTENA TAY [ON]")
 end
 
 function noob10()
-CAC("libil2cpp.so", 0x174ed34, "B20F43E31EFF2FE1")
+CAC("libil2cpp.so", 0x174ed34, "0100A0E31EFF2FE1")
 gg.toast("[ RESET GUEST ]")
 end
 
